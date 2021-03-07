@@ -21,9 +21,12 @@
 3.  Create DataBase and tables in PostgreSQL
  Created EmployeeSQL database in postgreSQL, then used the schema to create tables in EmployeeSQL database. 
  ![createdata.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/createdatabaseandtable.png)
-4.   Import each CSV file into the corresponding SQL table.   ![importtables.png](https://https://github.com/whysoq520/EmployeeSQL/blob/master/images/importtables.png)
-5.   Salaries Range ![salaries.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/salaries.png)
-6.   Job Titile Salaries![titlesalaries.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/title%20salaries.png)
+4.   Import each CSV file into the corresponding SQL table.   
+![importtables.png](https://https://github.com/whysoq520/EmployeeSQL/blob/master/images/importtables.png)
+5.   Salaries Range 
+![salaries.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/salaries.png)
+6.   Job Titile Salaries
+   ![titlesalaries.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/title%20salaries.png)
 
   
   
