@@ -36,6 +36,12 @@
 
 
 6.   Job Titile Salaries
+
+
+
+
+
+
    ![titlesalaries.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/title%20salaries.png)
 
   
