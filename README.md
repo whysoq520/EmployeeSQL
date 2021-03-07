@@ -27,6 +27,11 @@
 
 
 5.   Salaries Range 
+
+
+
+
+
 ![salaries.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/salaries.png)
 
 
