@@ -9,7 +9,7 @@
 
 
 ## **Screenshot:**
-![salaries.png](data/salaries.png)
+![salaries.png](https://github.com/whysoq520/EmployeeSQL/blob/master/images/salaries.png)
 ![screenshot2.jpg](Screenshots/Screenshot2.JPG)
 ![screenshot3.jpg](Screenshots/Screenshot3.JPG)
 ![screenshot4.jpg](Screenshots/Screenshot4.JPG)
